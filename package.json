@@ -1,0 +1,20 @@
+{
+  "name": "alexa-skill-crak-vs-whupp",
+  "version": "1.0.0",
+  "description": "a simple alexa skill that proves once and for all who is the best, crak or whupp?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "crak",
+    "whupp"
+  ],
+  "author": "s.whipp",
+  "license": "ISC",
+  "dependencies": {
+    "ask-sdk": "^2.3.0"
+  }
+}
